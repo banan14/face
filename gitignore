@@ -1,0 +1,16 @@
+
+### `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependencies
+venv/
+env/
+
+# Output
+output.avi
